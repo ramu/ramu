@@ -1,9 +1,5 @@
-<a href="https://github.com/ramu/">
-  <img src="https://komarev.com/ghpvc/?username=ramu" alt="ramu" />
-</a>
-<a href="https://github.com/ramu">
-  <img height="20" src="https://img.shields.io/github/followers/ramu?label=follow&logo=github&style=flat" />
-</a>
+<a href="https://github.com/ramu/"><img src="https://komarev.com/ghpvc/?username=ramu" /></a>
+<a href="https://github.com/ramu/"><img src="https://img.shields.io/github/followers/ramu?label=follow&logo=github&style=social" /></a>
 
 ## Hi! 👋
 
