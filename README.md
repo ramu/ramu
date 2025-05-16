@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ramu&color=blue)
+
 ## Hi there 👋
 
 <!--
