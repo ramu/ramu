@@ -13,6 +13,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramu&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ansible,apple,arduino,aws,bash,bitbucket,bootstrap,c,cs,cpp,coffeescript,css,cypress,dart,debian,django,docker,dotnet,dynamodb,eclipse,elasticsearch,elixir,emacs,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp,git,github,githubactions,gmail,go,gradle,graphql,gulp,haskell,heroku,html,htmx,idea,java,js,jenkins,jest,jquery,kotlin,kubernetes,laravel,less,linux,md,maven,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,obsidian,opencv,perl,php,postgres,py,qt,rails,raspberrypi,react,redis,redux,ruby,rust,sass,spring,sqlite,scala,selenium,sentry,svg,terraform,ts,ubuntu,visualstudio,vscode,vue,webpack,windows,yarn)](https://skillicons.dev)
+
 ### trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ramu&theme=gruvbox)
