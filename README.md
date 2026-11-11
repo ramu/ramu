@@ -9,17 +9,24 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramu&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramu&theme=zenburn&utcOffset=9)
 
-### github-readme-stats
+### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramu&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ramu&theme=merko)](https://github.com/stats-organization/github-stats-extended)
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ansible,apple,arduino,aws,bash,bitbucket,bootstrap,c,cs,cpp,coffeescript,css,cypress,dart,debian,django,docker,dotnet,dynamodb,eclipse,elasticsearch,elixir,emacs,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp,git,github,githubactions,gmail,go,gradle,graphql,gulp,haskell,heroku,html,htmx,idea,java,js,jenkins,jest,jquery,kotlin,kubernetes,laravel,less,linux,md,maven,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,obsidian,opencv,perl,php,postgres,py,qt,rails,raspberrypi,react,redis,redux,ruby,rust,sass,spring,sqlite,scala,selenium,sentry,svg,terraform,ts,ubuntu,visualstudio,vscode,vue,webpack,windows,yarn)](https://skillicons.dev)
+#### Recently used
 
-### trophy
+[![Recently used skills](https://skillicons.dev/icons?i=apple,aws,git,github,go,html,js,linux,md,postgres,rails,react,ruby,sqlite,sentry,terraform,ts,vue&perline=9)](https://skillicons.dev)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ramu&theme=gruvbox)
+<details>
+<summary>Other skills</summary>
+
+<br>
+
+[![Other skills](https://skillicons.dev/icons?i=angular,ansible,arduino,bash,bitbucket,bootstrap,c,cs,cpp,coffeescript,css,cypress,dart,debian,django,docker,dotnet,dynamodb,eclipse,elasticsearch,elixir,emacs,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp,githubactions,gmail,gradle,graphql,gulp,haskell,heroku,htmx,idea,java,jenkins,jest,jquery,kotlin,kubernetes,laravel,less,maven,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,obsidian,opencv,perl,php,py,qt,raspberrypi,redis,redux,rust,sass,spring,scala,selenium,svg,ubuntu,visualstudio,vscode,webpack,windows,yarn)](https://skillicons.dev)
+
+</details>
 
 ### links
 
