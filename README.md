@@ -9,10 +9,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramu&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramu&theme=zenburn&utcOffset=9)
 
-### GitHub Stats
-
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ramu&theme=merko)](https://github.com/stats-organization/github-stats-extended)
-
 ### Skills
 
 #### Recently used
