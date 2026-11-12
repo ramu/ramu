@@ -30,7 +30,7 @@ I'm a web developer based in Matsuyama, Ehime, Japan, working fully remote at [h
 
 ### links
 
-- [X(@ramusara)](https://twitter.com/ramusara)
+- [X(@ramusara)](https://x.com/ramusara)
 
 <!--
 **ramu/ramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
