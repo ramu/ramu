@@ -3,11 +3,15 @@
 
 ## Hi! 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramu&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramu&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramu&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramu&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramu&theme=zenburn&utcOffset=9)
+愛媛県松山市在住の Web developer です。[hacomono](https://github.com/hacomono) でフルリモートで働いています。現在は主に Ruby on Rails / Go / TypeScript / Vue を触っています。愛媛県とその近隣の IT コミュニティに関心があり、活動にも関わっています。
+
+I'm a web developer based in Matsuyama, Ehime, Japan, working fully remote at [hacomono](https://github.com/hacomono). These days I mainly work with Ruby on Rails, Go, TypeScript, and Vue. I'm also interested in and involved with IT communities in and around Ehime.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramu&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramu&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramu&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramu&theme=zenburn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramu&theme=zenburn&utcOffset=9)
 
 ### Skills
 
@@ -26,7 +30,7 @@
 
 ### links
 
-- [X(@ramusara)](http://twitter.com/ramusara)
+- [X(@ramusara)](https://twitter.com/ramusara)
 
 <!--
 **ramu/ramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
